@@ -1,0 +1,17 @@
+{
+  Retrievables: {
+    Owners: [
+      3508037678
+    ],
+    Admins: [
+      7214769114,
+      2662583180,
+      1373715074,
+      3508037678
+    ],
+    Moderators: [],
+    Banned: {
+      Username: "ReasonForBan"
+    }
+  }
+}
