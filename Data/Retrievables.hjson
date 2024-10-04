@@ -1,0 +1,15 @@
+{
+  Retrievables: {
+    Owners: [
+      3508037678  // HeartOfIrons
+    ],
+    Admins: [  // Administrators of Mopro, listed as numerical UserIDs
+      7214769114,  // not_basil7
+      2662583180  // lukaiscoolV2
+    ],
+    Moderators: [], // Moderators of Mopro, listed as numerical UserIDs
+    Banned: { // Format: Username, then the reason for ban. i.e., "Username": "Reason"
+      Username: "ReasonForBan"
+    }
+  }
+}
