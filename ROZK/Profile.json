@@ -1,0 +1,10 @@
+{
+  "Roblox": {
+    "UserId": 1,
+    "Groups": [null]
+  }
+  "PLAYERNAME": {
+    "UserId": USERID,
+    "Groups": [GROUPID1, GROUPID2]
+  }
+}
